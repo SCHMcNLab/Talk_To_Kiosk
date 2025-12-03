@@ -1,0 +1,4 @@
+1. mongoDB 설치 및 커넥션 생성
+2. python에 pip install mongodb 패키지 설치
+3. data_insert_to_db 파일 실행 - 현재 주석 처리 돼있어서, insert_data() 함수 호출 부분에서 주석 제거 해준 뒤 실행하셔야 합니다.
+4. mongoDBCompass에서 추가된 데이터를 확인 후 main.py 실행 ( 추가로, 각 모듈 별로 요구 패키지 존재합니다. 이 또한 설치해주셔야 합니다. )
